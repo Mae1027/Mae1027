@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Mae
-- 👀 I’m interested in watching anime, reading manga, and listening to music. 
-- 🌱 I’m currently learning Java, HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello everyone!🖐
+How its going? My name is Mae
 
-<!---
-Mae1027/Mae1027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##👩Who Am I?
+- ♏I'm a Scorpio
+- 😌A newbie in coding
+- 🦉I'm a night owl
+
+##Connect with me:
+<p align="left">
+  <a>href="https://twitter.com/ychoi6263" target="_blank"
+    <img align="center"
+         src="https://avatars.githubusercontent.com/u/50278?s=200&v=" height="30" width="40"
